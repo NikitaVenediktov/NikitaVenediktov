@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikitaVenediktov
+- 👋 Hi, I’m Nikita Venediktov. I am studying in the 1st year of [AI Talent Hub](https://ai.itmo.ru/) at ITMO University. Looking to further develop my skills and career in DS field. I have worked and continue to work on projects related to the development of applications for the analysis of various data.
 
 <!-- <a href="https://t.me/space_apple">
   <img align="left" alt="Nikita's LinkedIN" width="28px" src="https://static.cdnlogo.com/logos/t/23/telegram.png" />
@@ -25,25 +25,17 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NikitaVenediktov.NikitaVenediktov)
 
-## Рабочие проекты
-
-deeploid 
-
-## Учебные проекты
-
-| Название проекта        | Источник данных           | Описание  |
-| ------------- |:-------------:| -----|
-| [Сегментация сцены](https://github.com/petrov-pa/Study_projects/tree/main/Image%20segmentation)      | Kaggle, Стэнфорд | Обучение нейронной сети для семантического понимания сцены |
-| [Распознавание номеров для автоматизации КПП](https://github.com/vederko-p/plates_recognition)      | MIO-TCD, Kaggle | Система для распознавания типа, цвета и регистрационного номера транспортного средства для автоматического пропуска через КПП  |
-| [Задача сопоставления наименований компаний](https://github.com/vederko-p/company_text_calssification)      | ИТМО | Цель - построить модель, которая сможет сопоставлять фразы и определять, относятся ли они к одной компании или нет  |
-
-## Соревнования
+## competitions
 
 Data Product Hack (трек Data Driven BioTech) - 1 место.
 
+## work on
+
+@deeploid 
+
 ## Обучающие курсы
 
-В папке My_education
+at path: My_education
 
 
 ## stack languages and tools:
@@ -53,6 +45,6 @@ Data Product Hack (трек Data Driven BioTech) - 1 место.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📈 my github stats
+<!-- 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NikitaVenediktov&show_icons=true&theme=gotham" alt="NikitaVenediktov" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NikitaVenediktov&show_icons=true&theme=gotham" alt="NikitaVenediktov" /> -->
