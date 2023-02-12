@@ -46,26 +46,12 @@ Data Product Hack (трек Data Driven BioTech) - 1 место.
 В папке My_education
 
 
-
-**languages and tools:**  
+## stack languages and tools:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   22 hrs 57 mins  ███████████████████▓░░░░░   78.82 %
-JavaScript   3 hrs 45 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
-Bash         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Groovy       32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-CSS          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-```
-<!--END_SECTION:waka-->
 
 📈 my github stats
 
