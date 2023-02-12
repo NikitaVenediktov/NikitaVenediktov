@@ -25,17 +25,17 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NikitaVenediktov.NikitaVenediktov)
 
-## competitions
+## Competitions and hackathons
 
 Data Product Hack (трек Data Driven BioTech) - 1 место.
 
-## work on
+## Work on
 
-@deeploid 
+[Deeploid-Meta](https://github.com/Deeploid-Meta) 
 
-## Обучающие курсы
+## My current courses
 
-at path: My_education
+At path: [My_education](https://github.com/NikitaVenediktov/My_education)
 
 
 ## stack languages and tools:
