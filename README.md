@@ -20,25 +20,24 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
- 
+
 </div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NikitaVenediktov.NikitaVenediktov)
 
 ## Competitions and hackathons
 
-Data Product Hack (трек Data Driven BioTech) - 1 место.
+[Data Product Hack](https://ods.ai/competitions/aithschoolofmentors/results)  - 1 place.
 
 ## Work on
 
-[Deeploid-Meta](https://github.com/Deeploid-Meta) 
+[Deeploid-Meta](https://github.com/Deeploid-Meta)
 
 ## My current courses
 
 At path: [My_education](https://github.com/NikitaVenediktov/My_education)
 
-
-## stack languages and tools:
+## stack languages and tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
