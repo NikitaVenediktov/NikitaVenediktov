@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Nikita Venediktov. I am studying in the 1st year of [AI Talent Hub](https://ai.itmo.ru/) at ITMO University. Looking to further develop my skills and career in DS field. I have worked and continue to work on projects related to the development of applications for the analysis of various data.
-
+- 👋 Hi, I’m Nikita Venediktov
 <!-- <a href="https://t.me/space_apple">
   <img align="left" alt="Nikita's LinkedIN" width="28px" src="https://static.cdnlogo.com/logos/t/23/telegram.png" />
 </a>
